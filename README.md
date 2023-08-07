@@ -11,7 +11,7 @@
 >> ❌ Recursos complicados de usar  
 >> ❌ Exige uma serie de configurações iniciais  
 >> ❌ Só abre arquivos da versão instalada ( sem retrocompatibilidade )  
->> ✔️ Funciona por virtualização com servidor e em kits Xeon E5
+>> ✔️ Funciona por virtualização com servidor e em kits Xeon E5   
 >> ❌ Só possui suporte ao windows
 
 >[__Alto Qi Builder__](https://altoqi.com.br/builder)
@@ -19,7 +19,7 @@
 >> ✔️ Recursos intuitivos  
 >> ✔️ Pode ser configurado para automatizar partes das tarefas  
 >> Empresa Brasileira
->> Requesitos minimos consideraveis ( Core I5 ( Geração 4+ )/Ryzen 7 5XXX + SSD + GPU dedicada )
+>> Requesitos minimos consideraveis ( Core I5 ( Geração 4+ )/Ryzen 7 5XXX + SSD + GPU dedicada )   
 >> ❌ Só possui suporte ao windows
 
 # Software de simulação de sombreamento
