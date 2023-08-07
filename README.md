@@ -3,7 +3,7 @@
 >[__Archicad__](https://graphisoft.com/br/solucoes/archicad)
 >> ❌ Não crackeavel  
 >> ✔️ Recursos intuitivos  
->> ✔️ Possui criação de objetos inteligentes
+>> ✔️ Possui criação de objetos inteligentes   
 >> ❌ Requesitos minimos elevados ( 16GB RAM + intel core I5 ( Geração 8+ )/AMD Ryzen 9 5XXX + SSD + GPU dedicada )  
 
 >[__Revit__](https://www.autodesk.com.br/products/revit/overview)
