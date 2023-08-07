@@ -94,7 +94,7 @@
 > [__SolarVolt__](https://www.solarvoltenergia.com.br/)
 >>Situada em Belo Horizonte  
 >>No Mercado desde 2013 ( 10 anos )  
->>Em pesquisa...
+>>Sem mais informações disponiveis
 
 > [__Seltec__](https://www.seltecenergia.com.br/)
 >>Situada em Teófilo Otoni  
